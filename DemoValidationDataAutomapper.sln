@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoValidationDataAutomapper", "DemoValidationDataAutomapper\DemoValidationDataAutomapper.csproj", "{9B73D9DD-696C-4A0B-8A08-FAF454F0939A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{3B2CE37B-9575-4B25-8B23-75F1BB324FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B73D9DD-696C-4A0B-8A08-FAF454F0939A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B73D9DD-696C-4A0B-8A08-FAF454F0939A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B73D9DD-696C-4A0B-8A08-FAF454F0939A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B73D9DD-696C-4A0B-8A08-FAF454F0939A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2CE37B-9575-4B25-8B23-75F1BB324FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2CE37B-9575-4B25-8B23-75F1BB324FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2CE37B-9575-4B25-8B23-75F1BB324FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2CE37B-9575-4B25-8B23-75F1BB324FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C89CFA1-9669-4386-B5AF-F9F5E0841289}
+	EndGlobalSection
+EndGlobal
